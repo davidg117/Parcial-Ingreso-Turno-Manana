@@ -11,5 +11,5 @@ c)el promedio de personas por viaje,  que viajan en invierno
 */
 function mostrar()
 {
-	alert("tres");
+	
 }
